@@ -35,7 +35,7 @@ This is a Django-based web application that allows users to manage and track the
    - If uploading as a `.zip`, extract the folder
    - If using Git:
      ```bash
-     git clone https://github.com/YOUR_USERNAME/stock-portfolio-tracker.git
+     git clone https://github.com/stock-portfolio-tracker.git
      cd stock-portfolio-tracker
      ```
 
