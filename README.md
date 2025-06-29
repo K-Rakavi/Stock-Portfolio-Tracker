@@ -1,11 +1,10 @@
-# Stock Portfolio Tracker with Real-Time Insights
+![portfolio_preview](https://github.com/user-attachments/assets/bef090ed-b00b-4c14-adf5-b86ee72361f8)# Stock Portfolio Tracker with Real-Time Insights
 
 This is a Django-based web application that allows users to manage and track their stock investments with real-time market price updates and automated profit/loss analysis. It leverages live data via Yahoo Finance (`yfinance`), logs actions using MongoDB, and is optionally compatible with Power BI for extended analytics.
 
 ---
-<p align="center">
-  <img src="Screenshot 2025-06-28 193719.png" alt="Portfolio Screenshot" width="700"/>
-</p>
+![portfolio_preview](https://github.com/user-attachments/assets/00e3dd97-9c15-41eb-883e-80702f3d27b7)
+
 ## Features
 
 - Add and manage stock holdings per user
