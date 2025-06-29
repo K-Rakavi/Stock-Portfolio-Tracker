@@ -3,7 +3,9 @@
 This is a Django-based web application that allows users to manage and track their stock investments with real-time market price updates and automated profit/loss analysis. It leverages live data via Yahoo Finance (`yfinance`), logs actions using MongoDB, and is optionally compatible with Power BI for extended analytics.
 
 ---
-![Portfolio Preview](Screenshot 2025-06-28 193719.png)
+<p align="center">
+  <img src="Screenshot 2025-06-28 193719.png" alt="Portfolio Screenshot" width="700"/>
+</p>
 ## Features
 
 - Add and manage stock holdings per user
